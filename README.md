@@ -1,0 +1,3 @@
+- In the Register component,
+  - I am using localStorage.setItem to put the returning value - token - into local storage to check later when needed. If you refresh the page it's gonna automatically reset the state
+  - This has react-toastify for sending instant notifications
